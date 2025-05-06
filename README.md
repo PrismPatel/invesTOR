@@ -4,7 +4,7 @@
 InvestTOR is a data-driven real estate investment analysis system designed to identify and rank top-performing investment zones across the Greater Toronto Area (GTA). The project integrates housing, mortgage, and economic datasets to generate meaningful insights and actionable recommendations for property investors.
 
 **Key Features**
-- Python-based ETL pipeline pulling 10,000+ GTA property and financial records from RESTful APIs.
+- Python-based ETL pipeline pulling 1,000+ GTA property and financial records from RESTful APIs.
 - Cloud-hosted PostgreSQL database with optimized schemas and indexed tables for scalable storage.
 - Modular, automated data pipeline handling 10+ datasets across 25+ neighborhoods, reducing manual integration effort by 80%.
 - Advanced SQL queries and Python analytics calculating 12+ investment metrics (e.g., ROI, price trends, mortgage-to-income ratios) over 5 years of historical data.
